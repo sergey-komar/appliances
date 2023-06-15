@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="155 -155 480 480" style="enable-background:new 155 -155 480 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B1DCFF;}
+	.st1{fill:#009BE5;}
+</style>
+<path class="st0" d="M435-147H195c-17.7,0-32,14.3-32,32V13h304v-128C467-132.7,452.7-147,435-147z"/>
+<path class="st0" d="M451,37H163v224c0,17.7,14.3,32,32,32h240c17.7,0,32-14.3,32-32V37H451z"/>
+<g>
+	<path class="st1" d="M467,21c4.4,0,8-3.6,8-8v-128c0-22.1-17.9-40-40-40H195c-22.1,0-40,17.9-40,40V13c0,4.4,3.6,8,8,8h8v8h-8
+		c-4.4,0-8,3.6-8,8v224c0,22.1,17.9,40,40,40v24h56v-24h128v24h56v-24c22.1,0,40-17.9,40-40V37c0-4.4-3.6-8-8-8h-8v-8H467z M171-115
+		c0-13.3,10.7-24,24-24h240c13.3,0,24,10.7,24,24V5H171V-115z M211,309v-8h24v8H211z M419,309h-24v-8h24V309z M459,261
+		c0,13.3-10.7,24-24,24H195c-13.3,0-24-10.7-24-24V45h288V261z M443,29H187v-8h256V29z"/>
+	<path class="st1" d="M195-83c-4.4,0-8,3.6-8,8v56c0,4.4,3.6,8,8,8s8-3.6,8-8v-56C203-79.4,199.4-83,195-83z"/>
+	<path class="st1" d="M195,133c4.4,0,8-3.6,8-8V69c0-4.4-3.6-8-8-8s-8,3.6-8,8v56C187,129.4,190.6,133,195,133z"/>
+</g>
+</svg>

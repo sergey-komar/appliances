@@ -1,0 +1,33 @@
+.about{
+    padding-top: 8rem;
+    padding-bottom: 6rem;
+}
+.container {
+}
+.about-block {
+    margin-bottom: 9rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 8rem;
+}
+.about-block__item {
+    width: 30rem;
+    display: flex;
+    flex-direction: column;
+}
+.about-block__item-img {
+   
+}
+.about-block__item-img img{
+    margin-bottom: 4rem;
+    object-fit: cover;
+}
+.about-block__item-text {
+    margin-top: auto;
+    font-weight: 900;
+}
+.about__text {
+    margin-bottom: 4rem;
+    
+}
