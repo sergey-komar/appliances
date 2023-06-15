@@ -1,0 +1,35 @@
+html,
+body {
+	height: 100%;/*sticky footer*/
+	display: flex;/*sticky footer*/
+	flex-direction: column;/*sticky footer*/
+	margin: 0;
+	scroll-behavior: smooth;
+	font-family: 'Lato';
+	font-weight: 400;
+	font-size: 18px;
+	color: #000;
+ }
+html{
+	font-size: 10px;
+}
+body > * {
+	flex-shrink: 0;
+	/*sticky footer*/
+  }
+.footer{
+	margin-top: auto;/*sticky footer*/
+}
+button{
+	cursor: pointer;
+}
+.container{
+	max-width: 120rem;
+	margin: 0 auto;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+.title{
+	font-size: 6rem;
+	font-size: 900;
+}
