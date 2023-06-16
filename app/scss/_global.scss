@@ -33,3 +33,33 @@ button{
 	font-size: 6rem;
 	font-size: 900;
 }
+.input,
+.btn{
+	border-radius: 5rem;
+}
+.input{
+	padding-left: 2rem;
+    padding-right: 3rem;
+    border: 1px solid #424344;
+    background-color: #fff;
+}
+.btn{
+	font-size: 2.4rem;
+    color: #fff;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: none;
+    transition: all .5s ease-in;
+    background-color: rgb(243, 57, 58);
+    -webkit-box-shadow: 5px 13px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 5px 13px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 5px 13px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.btn:hover{
+	background-color: #3ca7db;
+    transition: all .3s ease-in;
+}
+.section{
+	background-color: rgb(255, 255, 255);
+    box-shadow: -2.939px 4.045px 54px 0px rgba(4, 26, 55, 0.24);
+}
